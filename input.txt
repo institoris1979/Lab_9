@@ -1,0 +1,10 @@
+This is a simple test string
+We need to test the logic
+Another line for the test
+Programming in C++
+A test example
+Just some random words
+Testing the string replacement
+Find the test substring
+Data processing line
+The final line of the file
